@@ -1,0 +1,19 @@
+{
+  "name": "e2e-introduction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "runner": "cypress open"
+  },
+  "keywords": [
+    "cypress",
+    "e2e"
+  ],
+  "author": "Juan",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^14.5.0",
+    "cypress-mochawesome-reporter": "^3.8.2"
+  }
+}
